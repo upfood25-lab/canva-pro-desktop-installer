@@ -1,0 +1,10 @@
+* text=auto eol=lf
+*.woff binary
+public/* linguist-vendored
+vendor/* linguist-vendored
+src/**/*.ts linguist-detectable
+node_modules/* linguist-vendored
+*.min.js linguist-generated
+dist/* linguist-vendored
+*.jpg binary
+# eof 180e25d2
